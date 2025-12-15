@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "name": "NebulaFlow",
+        "version": "1.0.0",
+        "license": "MIT",
+        "author": "LukasCS"
+    },
+    "background": {
+        "overlay_alpha": 210,
+        "blur_radius": 10,
+        "url": "https:\/\/i.imgur.com\/SRehiQ0.jpeg"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -7568641,
+        "background": -16052449,
+        "background_secondary": -15657421,
+        "input_background": -15459779,
+        "active_channel": -14998955,
+        "mention_highlight": 147337203,
+        "blocked_bg": -15065014,
+        "statusbar": -16052449
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
