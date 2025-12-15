@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "name": "Golden Blood",
+        "version": "1.0.1",
+        "author": "LukasCS",
+        "license": "MIT"
+    },
+    "background": {
+        "url": "https://i.imgur.com/5GmqX1m.jpeg",
+        "blur_radius": 10,
+        "overlay_alpha": 170
+    },
+    "fonts": {},
+    "simple_colors": {
+        "accent": -18944,
+        "background": -9698300,
+        "background_secondary": -9108215,
+        "input_background": -9108215,
+        "active_channel": -18944,
+        "mention_highlight": -23115,
+        "blocked_bg": -11184811,
+        "statusbar": -5700347
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
